@@ -1,2 +1,2 @@
 # Algorithms
-Sort and Search algorithms in Python
+Sort and Search algorithms written in Python
